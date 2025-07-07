@@ -17,7 +17,7 @@ Cubre múltiples tecnologías: HTML, CSS, JS, Python, SQL, etc.
 Artículos explicativos sobre estructuras de datos, algoritmos, entrevistas técnicas y más.
 
 2. Ejemplos de aplicaciones web:
-3. 
+    
 🔸 1. Figma
 Herramienta de diseño de interfaces (UI/UX) totalmente online.
 
