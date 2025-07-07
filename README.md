@@ -7,18 +7,17 @@
    
 🔹 1. MDN Web Docs (developer.mozilla.org)
 Contenido detallado sobre HTML, CSS, JavaScript, APIs web, accesibilidad, etc.
-
 Mantenido por Mozilla, es de los recursos más confiables para web.
 
 🔹 2. W3Schools
 Ideal para principiantes. Tiene ejemplos, tutoriales interactivos y ejercicios.
-
 Cubre múltiples tecnologías: HTML, CSS, JS, Python, SQL, etc.
 
 🔹 3. GeeksforGeeks
 Artículos explicativos sobre estructuras de datos, algoritmos, entrevistas técnicas y más.
 
 2. Ejemplos de aplicaciones web:
+3. 
 🔸 1. Figma
 Herramienta de diseño de interfaces (UI/UX) totalmente online.
 
@@ -29,32 +28,30 @@ App web para tomar notas, gestionar tareas, bases de datos y wikis personales o 
 Aplicación web de diseño gráfico.
 
 3. Justificación de la clasificación:
-Sitios web informativos están pensados para entregar contenido al usuario. Su interacción es mínima: leer artículos, hacer clic en enlaces o navegar entre páginas. No requieren una lógica compleja en el navegador, y muchas veces son HTML, CSS y algo de JavaScript para mejorar la experiencia visual.
 
 Aplicaciones web, en cambio, permiten una interacción continua con los datos: puedes enviar información (como escribir un correo), recibir respuestas en tiempo real, modificar contenido, guardar configuraciones, etc. Utilizan lógica de programación tanto en el cliente (navegador) como en el servidor, y están diseñadas para comportarse como programas completos dentro del navegador.
 
 4. Reflexión: ¿Qué hace que una aplicación web sea interactiva?
 Una aplicación web es interactiva porque:
 
-Permite al usuario manipular información en tiempo real (ej. crear tareas, enviar mensajes, reproducir contenido, etc.).
+Permite interacción en tiempo real entre el usuario y el sistema.
 
-Cambia su contenido o comportamiento sin necesidad de recargar la página.
+Responde de forma inmediata a eventos como clics, escritura, movimiento del mouse, etc.
 
-Responde a eventos del usuario como clics, entradas de texto, movimientos del mouse, etc.
+Puede guardar, editar o eliminar datos según las acciones del usuario.
 
-Tecnologías comunes detrás de una aplicación web:
+Muchas veces no requiere recargar la página, gracias a tecnologías modernas.
 
-HTML, CSS, JavaScript (para la estructura, estilo e interactividad básica).
+¿Qué tecnologías pueden estar detrás?
+Frontend: HTML, CSS, JavaScript, frameworks como React, Vue, Angular.
 
-Frameworks de JavaScript: React, Vue, Angular.
+Backend: Node.js, Python, Java, PHP (gestiona lógica del servidor).
 
-Lenguajes del lado del servidor: Node.js, Python, PHP, Ruby, Java.
+Bases de datos: MySQL, MongoDB, Firebase.
 
-Bases de datos: MySQL, MongoDB, PostgreSQL.
+APIs y servicios web: REST, GraphQL, WebSockets.
 
-APIs: permiten que la app se comunique con servidores u otros servicios.
-
-AJAX / Fetch / WebSockets: para enviar y recibir datos sin recargar la página.
+Control de estado y sincronización: Redux, Context API, SignalR.
 
 ✅ ACTIVIDAD 2 – Anatomía de una aplicación web moderna
 🎯 Objetivo: Comprender los componentes principales de una app web (frontend, backend, base de datos).
