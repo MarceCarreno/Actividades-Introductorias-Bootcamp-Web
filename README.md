@@ -4,18 +4,29 @@
 🎯 Objetivo: Comprender la diferencia entre un sitio web estático y una aplicación web interactiva.
 
 1. Ejemplos de sitios web informativos:
-Wikipedia: Enciclopedia digital colaborativa con contenido estático.
+   
+🔹 1. MDN Web Docs (developer.mozilla.org)
+Contenido detallado sobre HTML, CSS, JavaScript, APIs web, accesibilidad, etc.
 
-BBC News: Portal de noticias internacionales.
+Mantenido por Mozilla, es de los recursos más confiables para web.
 
-National Geographic: Sitio educativo sobre ciencia, naturaleza e historia.
+🔹 2. W3Schools
+Ideal para principiantes. Tiene ejemplos, tutoriales interactivos y ejercicios.
+
+Cubre múltiples tecnologías: HTML, CSS, JS, Python, SQL, etc.
+
+🔹 3. GeeksforGeeks
+Artículos explicativos sobre estructuras de datos, algoritmos, entrevistas técnicas y más.
 
 2. Ejemplos de aplicaciones web:
-Gmail: Plataforma para enviar, recibir y gestionar correos electrónicos.
+🔸 1. Figma
+Herramienta de diseño de interfaces (UI/UX) totalmente online.
 
-Trello: Herramienta de gestión de tareas y proyectos con tableros dinámicos.
+🔸 2. Notion
+App web para tomar notas, gestionar tareas, bases de datos y wikis personales o de equipo.
 
-Spotify Web: Reproductor en línea con acceso a música, playlists y control de reproducción.
+🔸 3. Canva
+Aplicación web de diseño gráfico.
 
 3. Justificación de la clasificación:
 Sitios web informativos están pensados para entregar contenido al usuario. Su interacción es mínima: leer artículos, hacer clic en enlaces o navegar entre páginas. No requieren una lógica compleja en el navegador, y muchas veces son HTML, CSS y algo de JavaScript para mejorar la experiencia visual.
